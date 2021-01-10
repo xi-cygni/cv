@@ -1,0 +1,280 @@
+#header {
+  background-color: white;
+  font-family: 'Miriam Libre', sans-serif;
+  color: #e7dec8;
+  height: 36px;
+  border-bottom: 2px solid black;
+}
+
+#header .container-fluid, .navbar {
+  height: 36px;
+}
+
+.nav-item {
+  padding-left: 20px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #cfaf81;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #e7dec8;
+}
+
+#title {
+  background-color: white;
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px;
+  position: relative;
+  padding: 0 0 100px 0;
+  text-align: left;
+}
+
+.rectangle-img {
+  margin: 20px 0 0 0;
+  float: left;
+  width: 14px;
+  height: 30px;
+
+}
+
+.frame, .frame1, .frame2 {
+  margin-top: 110px;
+  border: 2px solid #e7dec8;
+}
+
+.frame, .frame1 {
+  margin: 12px 0 0 12px;
+}
+
+.frame {
+  width: 320px;
+  height: 320px;
+}
+
+.frame1 {
+  width: 350px;
+  height: 350px;
+  border-color: #dbd0b6;
+}
+
+.frame2 {
+  width: 380px;
+  height: 380px;
+}
+
+.rect-top {
+  position: relative;
+  z-index: 1;
+}
+
+.text-bottom {
+  position: absolute;
+  text-align: left;
+}
+
+#about {
+  font-family: 'Miriam Libre', sans-serif;
+  background-color: white;
+  font-family: 'Catamaran', sans-serif;
+  color: black;
+  padding: 50px 100px 100px 100px;
+  text-align: center;
+}
+
+.imageMe {
+  height: 400px;
+  width: auto;
+  margin: auto;
+}
+
+.myname {
+  width: 100%;
+}
+
+.alert {
+  padding: 0;
+  margin: 20px 0 0 0;
+  color: #dbd0b6;
+  font-size: 25px;
+}
+
+p, h2 {
+  text-align: left;
+  padding-left: 15px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+p {
+    padding-top: 25px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.alink {
+  color: black;
+  text-decoration: underline;
+}
+
+.alink:hover {
+  color: #cfaf81;
+}
+
+
+#education {
+  padding: 60px 0;
+  text-align: center;
+  background-color: black;
+  color:#cfaf81; 
+}
+
+#education h5 {
+  font-style: italic;
+}
+
+#education h3 {
+  text-decoration: underline;
+}
+
+#education p {
+  font-size: 17px;
+  padding: 4% 15%;
+  text-align: justify;
+  color: white;
+}
+
+.imageWUT {
+  height: 100px;
+  width: auto;
+  margin: 20px 0 30px 0;
+}
+
+#workExperience {
+  padding: 60px 0;
+  text-align: center;
+  color: black;
+}
+
+#workExperience h3 {
+  text-decoration: underline;
+}
+
+#workExperience p {
+  text-align: justify;
+  font-size: 17px;
+  padding: 40px 100px 0 100px;
+}
+
+ul {
+  padding: 0 120px;
+  text-align: justify;
+}
+
+li {
+  text-align: left;
+}
+
+.fluence-img, .pwc-img {
+  height: 100px;
+  width: auto;
+  margin: 20px 0 30px 0;
+}
+
+.carousel-icon {
+  height: 20px;
+  width: auto;  
+  text-align:center;
+}
+
+.carousel-item {
+  padding: 2% 15%;
+}
+
+#courses {
+  padding: 60px 0;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+#courses p {
+  text-align: justify;
+  font-size: 17px;
+  padding: 2% 24%;
+}
+
+#courses h3 {
+  text-decoration: underline;
+  color:#cfaf81;
+}
+
+#courses h4 {
+  color:#cfaf81;
+}
+
+.card {
+  background-color: #121111;
+}
+
+.card a {
+  color: #cfaf81;
+}
+
+.card ul {
+  padding: 0 0 0 10%;
+}
+
+#courses h4 {
+  padding: 0 0 50px 0;
+}
+
+#extras {
+  padding: 60px 0;
+  text-align: center;
+}
+
+#extras img {
+  height: 400px;
+  width: auto;
+}
+
+#extras .container {
+  padding-left: 0;
+}
+
+#extras .card {
+  background-color: #fcfaf2;
+  margin:5% 0 0 14%;
+  
+}
+
+#extras h3 {
+  text-decoration: underline;
+}
+
+#extras .card-text {
+  padding: 10px 10px 0 50px;
+  font-size: 18px;
+  text-align: justify;
+}
+
+#contact h5 {
+  text-decoration: underline;
+}
+#contact {
+  padding: 40px 0;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+#contact img {
+  height: 30px;
+  margin: 1%;
+  width: auto;
+}
+
